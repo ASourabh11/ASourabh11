@@ -1,7 +1,7 @@
+[![HitCount](http://hits.dwyl.com/Asourabh11/Asourabh11.svg)](http://hits.dwyl.com/Asourabh11/Asourabh11)
+
 ## Welcome to my GitHub account
 
-
-[![HitCount](http://hits.dwyl.com/Asourabh11/Asourabh11.svg)](http://hits.dwyl.com/Asourabh11/Asourabh11)
 
 - 👨‍🎓 I’m currently Pursuing Master's in Business Administration and Data science at HTW university of Applied Science Berlin, Germany
 - 👷‍♂️ I have 2 years of data science experience in industrial applications
