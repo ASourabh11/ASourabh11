@@ -17,8 +17,8 @@
 
 ## Find me on
 
-- LinkedIn: https://www.linkedin.com/in/sourabh-shrikant-kulkarni-065a52169
-- Kaggle:   https://www.kaggle.com/sourabhkulkarni2424
+- [LinkedIn](https://www.linkedin.com/in/sourabh-shrikant-kulkarni-065a52169)
+- [Kaggle](https://www.kaggle.com/sourabhkulkarni2424)
 
 
   
