@@ -1,11 +1,6 @@
-### Welcome to my GitHub account
+## Welcome to my GitHub account
 
-<!--
-**ASourabh11/ASourabh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 👨‍🎓 I’m currently Pursuing Master's in Business Administration and Data science at HTW university of Applied Science Berlin, Germany
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +8,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+**ASourabh11/ASourabh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 
 -->
